@@ -7,6 +7,8 @@ ProjectSection(SolutionItems) = preProject
 	.gitignore = .gitignore
 EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FugaTests", "FugaTests\FugaTests.csproj", "{355044D9-B3D5-4D23-B17B-3C447EBC1458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,5 +19,9 @@ Global
 		{5F3422E9-078A-44D1-AAA4-E644C3A16AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3422E9-078A-44D1-AAA4-E644C3A16AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3422E9-078A-44D1-AAA4-E644C3A16AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355044D9-B3D5-4D23-B17B-3C447EBC1458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355044D9-B3D5-4D23-B17B-3C447EBC1458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355044D9-B3D5-4D23-B17B-3C447EBC1458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355044D9-B3D5-4D23-B17B-3C447EBC1458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
